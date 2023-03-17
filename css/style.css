@@ -1,0 +1,8 @@
+    body {
+        background-image: -moz-radial-gradient();
+        background-attachment: fixed;
+        background-color: aqua;
+        background-image:url(/img/escudoi.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+        }
